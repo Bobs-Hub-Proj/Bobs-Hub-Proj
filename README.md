@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bobs-Hub-Proj
 - 👀 I’m interested in learning to code!
 - 🌱 I’m currently learning myself
-- 💞️ I’m looking to collaborate on Daves Mom
-- 📫 How to reach me (OF)
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me email
 - 😄 Pronouns: They/Them/Jane
 - ⚡ Fun fact: I like turtles
 
