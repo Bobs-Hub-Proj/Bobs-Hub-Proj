@@ -5,4 +5,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-attempt to pull code for rak12006 pir motion sensor
